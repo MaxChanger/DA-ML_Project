@@ -1,0 +1,23 @@
+
+BIOGRAPHY
+Dr. Greg Mori was born in Vancouver and grew up in Richmond, BC. He received the Ph.D. degree in Computer Science from the University of California, Berkeley in 2004. He received an Hon. B.Sc. in Computer Science and Mathematics with High Distinction from the University of Toronto in 1999. He spent one year (1997-1998) as an intern at Advanced Telecommunications Research (ATR) in Kyoto, Japan. After graduating from Berkeley, he returned home to Vancouver and is currently a Professor in the School of Computing Science at Simon Fraser University.
+
+He was a Visiting Scientist at Google in Mountain View, California in 2014-2015. He served as Director of the School of Computing Science from 2015-2018. He is now Research Director for RBC's Borealis AI Vancouver lab.
+
+Dr. Mori conducts research in computer vision and machine learning, and teaches classes in data structures and programming, artificial intelligence, computer vision, and machine learning. Dr. Mori received the Canadian Image Processing and Pattern Recognition Society (CIPPRS) Award for Research Excellence and Service in 2008. Dr. Mori received NSERC Discovery Accelerator Supplement awards in 2008 and 2015. He received the ICCV Helmholtz Prize in 2017. He served on the editorial boards of IJCV and T-PAMI, the top journals in computer vision, and on the organizing committees for NeurIPS, CVPR, ICCV, and ECCV, the top conferences in computer vision and machine learning. He will be a Program Chair for CVPR 2020 and a General Chair for CVPR 2023. He is privileged to have worked with many excellent students while at SFU.
+
+RESEARCH INTERESTS
+My research is in computer vision, and is concerned with developing algorithms that automatically interpret images and videos, particularly those containing people. I have made significant contributions towards solving the problems of human pose estimation and human action recognition. At a broad level, the methodology followed is to construct features and representations that capture our intuition regarding these vision problems. We operationalize these via machine learning algorithms, adapting them to suit our purposes.
+
+Specific examples of features and representations include work on superpixels for representing images, motion features for human action recognition, and our structured models for video sequences and group activities. We have developed variants of machine learning algorithms such as hidden Conditional Random Fields (hCRF), Latent Dirichlet Allocation (LDA), latent SVMs, and deep networks to implement these ideas.
+
+Research interests keywords:
+
+computer vision
+machine learning
+video analysis
+human activity recognition
+human body pose estimation
+pedestrian detection and tracking
+object recognition
+Please see the Vision and Media Lab for a list of research projects, or my list of publications for more details.
